@@ -1,4 +1,4 @@
-![](https://github.com/M-Hsh/Parkinson/blob/main/images/sample.png)
+![](https://github.com/mohammadhashemii/mohammadhashemii/blob/main/intro.jpg)
 
 ### Hi Folks 😄
 
