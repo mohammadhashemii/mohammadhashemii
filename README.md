@@ -2,7 +2,7 @@
 
 ### Hi Folks 😄
 
-#### I am the third-year Computer Engineering student, future Data Scientist:)M y passion for solving Artificial Intelligence problems brought me to spend most of my time on researching in Deep and Machine Learning area. 
+#### I am the third-year Computer Engineering student. My passion for solving Artificial Intelligence problems brought me to spend most of my time on researching in Deep and Machine Learning area. 
 
 The most valuable lesson I have learnt in the last year is fundamental theories in Computing Intelligence and ML/DL algorithms. Since then, I found my way toward future!
 
