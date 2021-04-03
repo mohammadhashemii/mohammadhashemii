@@ -11,7 +11,7 @@ This semester I have learnt Learning Libraries for Python([Numpy](https://numpy.
 ##### BIO
 
 - 🏢 I'm currently studying at **Shahid Beheshti University**
-- ⚙️ I use daily: `.py`, `.m`, `.ipynb`
+- ⚙️ I use daily: `.py`, `.ipynb`
 - 🌍 I'm mostly active within the **Pandas Community**
 - 🌱 Learning all about **Machine Learning, Deep Learning, Computer Vision**
 - 📚 See my scientific experiences: [Google Scholar](https://scholar.google.com/citations?user=LRpJtSQAAAAJ&hl=en)
