@@ -1,6 +1,6 @@
 ![](https://github.com/mohammadhashemii/mohammadhashemii/blob/main/intro.jpg)
 
-### Hi Folks 😄
+### Hi 😄
 
 #### I am an undergraduate  Computer Engineering student. My passion for solving Artificial Intelligence problems brought me to spend most of my time on researching in Deep and Machine Learning area. 
 
