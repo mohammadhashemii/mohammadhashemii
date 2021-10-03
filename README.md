@@ -8,4 +8,3 @@
 - ⚙️ I use daily: `.py`, `.ipynb`
 - 🌱 Learning all about **Machine Learning, Deep Learning, Computer Vision**
 - 📚 See my scientific experiences: [Google Scholar](https://scholar.google.com/citations?user=LRpJtSQAAAAJ&hl=en)
-- ⚡️ Fun fact: I'm a huge fan of Fashion and Sports!
