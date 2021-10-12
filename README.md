@@ -6,5 +6,5 @@
 ##### BIO
 
 - ⚙️ I use daily: `.py`, `.ipynb`
-- 🌱 Learning all about **Machine Learning, Deep Learning, Computer Vision**
+- 🌱 Learning all about **Machine Learning, Deep Learning, Computer Vision, Graph Learning** 
 - 📚 See my scientific experiences: [Google Scholar](https://scholar.google.com/citations?user=LRpJtSQAAAAJ&hl=en)
