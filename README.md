@@ -1,7 +1,7 @@
 
 ### Hi 😄
 
-#### I am currently studying the fourth year of my bacheloar's degree in Computer Engineering at Shahid Beheshti University. My passion for solving Artificial Intelligence problems brought me to spend most of my time on researching in Deep and Machine Learning area. 
+#### I am currently studying the fourth year of my bachelor's degree in Computer Engineering at Shahid Beheshti University. My passion for solving Artificial Intelligence problems brought me to spend most of my time on researching in Deep and Machine Learning area. 
 
 ##### BIO
 
